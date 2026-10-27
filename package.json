@@ -1,0 +1,19 @@
+{
+    "name": "com.dories.audio",
+    "displayName": "Dories Audio",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "音效框架：背景音乐淡入淡出切换、音效 AudioSource 复用与并发上限、按（包名, 地址）缓存 AudioClip 并空闲释放、分通道音量与静音，可接入 Dories YooAssetSystem。",
+    "author": {
+        "name": "Dories"
+    },
+    "keywords": [
+        "audio",
+        "sound",
+        "music"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "com.dories.logging": "1.0.0"
+    }
+}

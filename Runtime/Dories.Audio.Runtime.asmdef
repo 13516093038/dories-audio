@@ -1,0 +1,29 @@
+{
+    "name": "Dories.Audio.Runtime",
+    "rootNamespace": "Dories.Audio.Runtime",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "Dories.Logging.Runtime",
+        "Dories.YooAssetSystem.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "DORIES_UNITASK_SUPPORT"
+        },
+        {
+            "name": "com.dories.yooassetsystem",
+            "expression": "",
+            "define": "DORIES_YOOASSET_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Dories.Audio.Tests",
+    "rootNamespace": "Dories.Audio.Tests",
+    "references": [
+        "Dories.Audio.Runtime",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS",
+        "DORIES_UNITASK_SUPPORT"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "DORIES_UNITASK_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
