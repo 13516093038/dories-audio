@@ -20,7 +20,7 @@
             "define": "DORIES_UNITASK_SUPPORT"
         },
         {
-            "name": "com.dories.yooassetsystem",
+            "name": "com.tuyoogame.yooasset",
             "expression": "",
             "define": "DORIES_YOOASSET_SUPPORT"
         }
